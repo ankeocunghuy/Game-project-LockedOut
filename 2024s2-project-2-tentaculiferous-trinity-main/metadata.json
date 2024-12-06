@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-tentaculiferous-trinity",
+  "teamName": "Tentaculiferous Trinity",
+  "teamMembers": [
+    {
+      "name": "Thane Dassanayake",
+      "github": "1thda",
+      "email": "tdassanayake@student.unimelb.edu.au"
+    },
+    {
+      "name": "Ngoc Huy Nguyen",
+      "github": "ankeocunghuy",
+      "email": "ngochuyn@student.unimelb.edu.au"
+    },
+    {
+      "name": "Nathan Dowd",
+      "github": "NathanD0wd",
+      "email": "ndowd@student.unimelb.edu.au"
+    },
+    {
+      "name": "Joel Leifer",
+      "github": "MrSodaPop",
+      "email": "jleifer@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "LockedOut",
+  "gameBlurb": "LockedOut is a surreal narrative-driven puzzle game where players confront the anxieties of job hunting through eerie, symbolic challenges and non-combative bosses.",
+  "videoUrl": "https://youtu.be/KwLeYkp4trs"
+}
